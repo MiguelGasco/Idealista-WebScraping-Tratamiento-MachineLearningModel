@@ -1,0 +1,14 @@
+pandas
+numpy
+scikit-learn
+requests
+bs4
+selenium
+undetected_chromedriver
+fast_ml
+joblib
+matplotlib
+seaborn
+plotly
+nbformat
+tqdm
